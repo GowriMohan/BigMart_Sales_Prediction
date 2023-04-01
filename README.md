@@ -11,6 +11,6 @@ The solution is divided into the following sections:
 
 2. Data Preprocessing
 
-3. Model building and evaluation,
+3. Model building and evaluation
 
 4. Predictions.
