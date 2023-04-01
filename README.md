@@ -13,13 +13,13 @@ The solution is divided into the following sections:
 
 The data scientists at BigMart have collected 2013 sales data for 1559 products across 10 stores in different cities. Also, certain attributes of each product and store have been defined. The aim is to build a predictive model and predict the sales of each product at a particular outlet.
 
-• There is  Train, Test and sample submission file available. 
+• There is Train, Test and Sample submission file available. 
 
-• The Train file is for training the model and for model evaluation and test file is only for making predictions.
+• The Train file is for training the model & for model evaluation and test file is only for making predictions.
 
-• Test file will not be having the output column.  
+• Test file do not have the output column.  
 
-• Did EDA and pre-processing separately on the train and test dataset.
+• Did EDA and pre-processing separately on train and test dataset.
 
 • After getting the best model, uploaded the sample submission file to python.
 
